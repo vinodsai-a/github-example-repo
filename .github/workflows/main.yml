@@ -1,4 +1,4 @@
 on: [pull_request]
 jobs:
   ci:
-    uses: vinodsai-a/github-reusable-workflow-sample/.github/workflows/main.yml@main
+    uses: vinodsai-a/github-reusable-workflow-sample/.github/workflows/main.yml@4789a81dc0b417dffd45fa2b321acf645ad702e8
